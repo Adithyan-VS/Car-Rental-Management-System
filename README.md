@@ -8,11 +8,26 @@ This project is a car rental system that allows users to rent cars from a fleet 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/loading.png)
-![Screenshot 2](screenshots/login.png)
-![Screenshot 3](screenshots/cars.png)
-![Screenshot 4](screenshots/return.png)
-![Screenshot 5](screenshots/adlogin.png)
+<div align="center">
+  <img src="screenshots/loading.png" alt="Screenshot 1" width="400" />
+</div>
+<br>
+<div align="center">
+  <img src="screenshots/login.png" alt="Screenshot 2" width="400" />
+</div>
+<br>
+<div align="center">
+  <img src="screenshots/cars.png" alt="Screenshot 3" width="400" />
+</div>
+<br>
+<div align="center">
+  <img src="screenshots/return.png" alt="Screenshot 4" width="400" />
+</div>
+<br>
+<div align="center">
+  <img src="screenshots/adlogin.png" alt="Screenshot 5" width="400" />
+</div>
+
 
 ## Forms
 
